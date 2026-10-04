@@ -3,7 +3,7 @@
 A custom mod menu for **Call of Duty: Black Ops II Zombies** running on **Plutonium T6**.
 
 > **Current Version:** v1.0 Development  
-# Current Map Support
+> **Current Map Support:** DLC5 / `zm_theater` ONLY
 > **More Zombies maps are coming in future updates.**
 
 TopPlays Zombies is an expanding BO2 Zombies mod menu featuring player options, zombie controls, weapons, custom weapon ports, fun options, settings, and more.
