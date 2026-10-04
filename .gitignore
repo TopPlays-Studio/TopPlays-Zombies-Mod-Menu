@@ -1,0 +1,39 @@
+# Development / temporary files
+*.log
+*.tmp
+*.bak
+*.backup*
+*.dmp
+
+# Build/research folders
+Backups/
+Dumps/
+dump/
+research/
+temp/
+tmp/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+
+# Secrets / configuration
+.env
+.env.*
+*.key
+*.pem
+
+# Plutonium runtime/cache
+storage/
+logs/
+
+# Do not commit large raw development sound/audio files accidentally
+*.wav
+*.flac
+
+# OS/user-specific junk
+*.lnk
